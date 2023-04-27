@@ -11,17 +11,20 @@ function ProjectDisplay() {
     <div className="project">
       <h1> {project.name}</h1>
 
-      <a href={project.URL}target="_blank" >
+     
       <img src={project.image}  alt='images'/>
+<div>
+<a href={project.URL}target="_blank" rel="noopener noreferrer"  >
+   <button>Source Code</button>
 </a>
-   
-   
-
-      
+<a href={project.LiveDemo}target="_blank" rel="noopener noreferrer" >
+<button>LiveDemo</button>
+      </a>
+      </div>   
       <p>
-        <b>Skills:</b> {project.skills}
+        <b>Technology:</b> {project.skills}
       </p>
-      <GitHubIcon />
+      
     </div>
   );
 }

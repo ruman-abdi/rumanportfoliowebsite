@@ -78,24 +78,7 @@ function Experience() {
         
         </VerticalTimelineElement>
 
-        <VerticalTimelineElement
-          className="vertical-timeline-element--work"
-          date="jun-2021 -dec-2021"
-          iconStyle={{ background: "#e9d35b", color: "#fff" }}
-          icon={<WorkIcon />}
-        >
-          <h3 className="vertical-timeline-element-title">
-            Front-end Developer - healTech solution
-          </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            Nairobi, Kenya
-          </h4>
-          <p>
-          Providing support and maintenance for existing websites and applications.
-          </p>
-          <p> Optimizing web pages for performance</p>
-          <p> Collaborating with designers and other developers to create responsive UI</p>
-        </VerticalTimelineElement>
+        
       </VerticalTimeline>
     </div>
   );
