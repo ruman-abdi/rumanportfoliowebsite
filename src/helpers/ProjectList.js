@@ -8,44 +8,46 @@ export const ProjectList = [
 
 
 
-
+  {
+    name: "CV Generator",
+    image: Proj1,
+    skills: "JavaScript, HTML ,CSS,Local Storage",
+    URL: "https://github.com/ruman-abdi/CV-generator",
+    LiveDemo: "https://cv-generator-gilt.vercel.app/",
+   
+  },
   
   {
     name: "Movie App",
     image: Proj3,
     skills: "React, Hooks, Axios,Rest API,Styled component,",
     URL:" https://github.com/ruman-abdi/movie-collection-site",
-    LiveDemo: " ",
+    LiveDemo: "https://movielibrary-ten.vercel.app/",
     
   },
 
   
+
+  {
+    name: "Card Details",
+    image: Proj4,
+    skills: "HTML,CSS, JavaScript, Bootstrap,",
+    URL:"https://github.com/ruman-abdi/Interactive-Card-Detail-",
+    LiveDemo: "https://creditcard-ruman-abdi.vercel.app/",
+  },
+  
+
+
   {
     name: "Ecommerce Website",
     image: Proj2,
     skills: "React,Context Api, ReactRouterDom, HOOKS, CSS",
     URL:"https://github.com/ruman-abdi/ecommerce-store",
-    LiveDemo: " ",
-   
-    
+    LiveDemo: "https://rumanshop.vercel.app/",
   },
   
-  {
-    name: "Crypto APP",
-    image: Proj4,
-    skills: "React ,UseState, useEffect,CSS",
-    URL:"https://github.com/ruman-abdi/Crypto-App",
-    LiveDemo: " ",
-    
-  }, 
+
   
-  {
-    name: "CV Generator",
-    image: Proj1,
-    skills: "JavaScript, HTML ,CSS,Local Storage",
-    URL: "https://github.com/ruman-abdi/CV-generator",
-    LiveDemo: " https://github.com/ruman-abdi/CV-generator",
-   
-  },
+  
 
 ];

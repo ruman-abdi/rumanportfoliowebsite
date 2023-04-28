@@ -18,7 +18,7 @@ function Experience() {
           icon={<SchoolIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Moi-Gils, Mandera, Kenya
+            Moi-Girls, Mandera, Kenya
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
           High School Diploma
