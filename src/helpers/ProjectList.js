@@ -43,7 +43,7 @@ export const ProjectList = [
     image: Proj2,
     skills: "React,Context Api, ReactRouterDom, HOOKS, CSS",
     URL:"https://github.com/ruman-abdi/ecommerce-store",
-    LiveDemo: "https://rumanshop.vercel.app/",
+    LiveDemo: "https://rumanshop.vercel.apps/",
   },
   
 
