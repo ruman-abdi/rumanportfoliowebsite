@@ -66,13 +66,14 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-           Internship - Ascc Logistic
+          Data support technician  -  Ascc Logistic
           </h3>
           <h4 className="vertical-timeline-element-subtitle">
             Nairobi, Kenya
           </h4>
-          <p> Providing technical support and Training to end-users</p>
-          <p>  Implementing and Managing security measures</p>
+          <p>Track, prioritize and document requests using an IT support request system </p>
+          <p> Ensure the functionality and operations of semi-automated systems </p>
+          <p> Install, test, maintain and upgrade operating systems </p>
           <p>Monitoring network performance</p>
 
         

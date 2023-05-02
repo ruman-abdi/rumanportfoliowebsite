@@ -10,7 +10,6 @@ function Footer() {
       <div className="socialMedia">
       <LinkedInIcon onClick={() => window.open('https://www.linkedin.com/in/ruman-abdirashid-sheikh-81991b236/ ', '_blank')} />
       <GithubIcon onClick={() => window.open('https://github.com/ruman-abdi','_blank')} />
-        <InstagramIcon onClick={() => window.open('https://www.instagram.com/ruman.codes/ ', '_blank')} />
       
        
       </div>

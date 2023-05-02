@@ -11,7 +11,7 @@ function Home() {
       <div className="about">
         <h2> Hi, My Name is Ruman</h2>
         <div className="prompt">
-          <p>A software developer with a passion for learning and creating.</p>
+          <p>A software developer with a passion for learning and creating products that solves real world problem.</p>
           <LinkedInIcon onClick={() => window.open('https://www.linkedin.com/in/ruman-abdirashid-sheikh-81991b236/ ', '_blank')} />
           <EmailIcon onClick={() => window.open('https://mail.google.com/mail/u/2/', '_blank')}  />
 
